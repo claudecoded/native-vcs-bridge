@@ -1,0 +1,6 @@
+# Core execution uses python standard library wrappers.
+# Testing and linting infrastructure matrix suites:
+pytest==8.1.1
+mypy==1.9.0
+black==24.2.0
+flake8==7.0.0
